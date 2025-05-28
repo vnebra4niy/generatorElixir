@@ -1,5 +1,4 @@
-Proces tworzenia i testowania
-Podczas implementacji projektu skupiałem się na wyborze odpowiednich funkcji i technik, które umożliwią elastyczne i czytelne generowanie haseł.
+Proces tworzenia i testowania Podczas implementacji projektu skupiałem się na wyborze odpowiednich funkcji i technik, które umożliwią elastyczne i czytelne generowanie haseł.
 
 Wybór Enum.random/1 do losowania długości haseł i do losowego wybierania znaków lub słów uznałem za naturalny i prosty sposób na wprowadzenie losowości.
 
